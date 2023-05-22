@@ -1,0 +1,28 @@
+
+    me parece que "Pokemones" es la clase abstracta
+    entonces estos atributos son declarados, pero cada pokemon 
+    deberia implementarlo en propia clase!
+    //atributos
+    int num_pokedex;
+    String nombre_pokemon;
+    double peso;
+    int temporada;
+    
+    Tipos.. que sería cada clase *abstracta* heredada:
+    //Electrico
+    //Planta
+    //Fuego
+    //Agua
+    
+    todos pueden atacar con:
+    // eso da la pauta que es una interfaz!
+    // placaje
+    // arañazo
+    // mordisco
+    
+    4 personajes... son las clases heredadas de "Pokemones"
+    //pikachu
+    //charmander
+    //pokemon2
+    //pokemon3
+    
